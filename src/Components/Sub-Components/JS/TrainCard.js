@@ -3,9 +3,10 @@ import { Button, Card } from 'react-bootstrap'
 import {BiTargetLock, BiTrain,BiTime} from 'react-icons/bi'
 import {AiTwotoneSetting} from 'react-icons/ai'
 import {BsArrowReturnLeft, BsCalendarDate, BsCalendarDay, BsSpeedometer2 } from 'react-icons/bs'
-import { FaBed, FaSourcetree } from 'react-icons/fa';
+import { FaBed, FaSourcetree,FaLocationArrow } from 'react-icons/fa';
 import { GrLocationPin } from 'react-icons/gr';
 import { GiPathDistance,GiBusStop } from 'react-icons/gi';
+// import { IoLocationSharp } from 'react-icons/io';
 import "../CSS/trainCard.css"
 export default function TrainCard(props) {
 
@@ -18,52 +19,52 @@ export default function TrainCard(props) {
     <div>
       <Card className="cardBody" style={{ width: '18rem',margin:"5px",height:"350px",textAlign:"left" }}>
       
-      <Card.Body>
+      <Card.Body style={{padding:"0px"}}>
         <Card.Title className='cardTitle'> {data[tn]["tname"]}</Card.Title>
         <Card.Text className='cardText'>
-          <table>
+          <table style={{marginLeft:"24px"}}>
             <tr>
-              <td> <BiTrain/> Train No </td>
+              <td className='tdTitle'> <BiTrain/> Train No </td>
               <td> {tn}</td>
             </tr>
             <tr>
-              <td> <FaSourcetree/> Source  </td>
+              <td className='tdTitle'> <FaSourcetree/> Source  </td>
               <td> {data[tn]["source"]}</td>
             </tr>
             <tr>
-              <td> <GrLocationPin/>  Destination </td>
+              <td className='tdTitle'> <FaLocationArrow/>  Destination </td>
               <td> {data[tn]["destn"]}</td>
             </tr>
             <tr>
-              <td> <BsSpeedometer2/>  Avg. Speed  </td>
+              <td className='tdTitle'> <BsSpeedometer2/>  Avg. Speed  </td>
               <td> {data[tn]["speed"]} </td>
             </tr>
             <tr>
-              <td> <GiPathDistance/> Total Distance</td>
+              <td className='tdTitle'> <GiPathDistance/> Total Distance</td>
               <td> {data[tn]["distance"]} </td>
             </tr>
             <tr>
-              <td> <BiTime/> Total Time   </td>
+              <td className='tdTitle'> <BiTime/> Total Time   </td>
               <td> {data[tn]['travel']} </td>
             </tr>
             <tr>
-              <td> <AiTwotoneSetting/> Type of Rake </td>
+              <td className='tdTitle'> <AiTwotoneSetting/> Type of Rake </td>
               <td>{data[tn]["type"]}</td>
             </tr>
             <tr>
-              <td><BsCalendarDay/> Days </td>
+              <td className='tdTitle'><BsCalendarDay/> Days </td>
               <td>{data[tn]['days']}</td>
             </tr>
             <tr>
-              <td><BsArrowReturnLeft/> Return Train </td>
+              <td className='tdTitle'><BsArrowReturnLeft/> Return Train </td>
               <td>{data[tn]["return"]}</td>
             </tr>
             <tr>
-              <td><FaBed/> Class </td>
+              <td className='tdTitle'><FaBed/> Class </td>
               <td>{data[tn]["class"]}</td>
             </tr>
             <tr>
-              <td><GiBusStop/> Total Stop </td>
+              <td className='tdTitle'><GiBusStop/> Total Stop </td>
               <td>{data[tn]["stoppage"]}</td>
             </tr>
           </table>
