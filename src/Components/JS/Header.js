@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar, Nav , Container} from "react-bootstrap";
 import { FaCode, FaHome, FaLocationArrow, FaTrain} from "react-icons/fa";
 import { Link } from "react-router-dom";
-
+import  logo from "../Images/heading.svg"
 import "../CSS/Header.css";
 export default function Header() {
   return (
@@ -10,7 +10,7 @@ export default function Header() {
       
       <Navbar className="NavCont" expand="lg">
       <Container>
-        <Navbar.Brand className="NavTitle"> Tour Guide </Navbar.Brand>
+        <Navbar.Brand className="NavTitle"> Tour Guide  </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="button" />
         <Navbar.Collapse>
         <Nav className="me-auto">

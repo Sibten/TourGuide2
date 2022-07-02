@@ -1,8 +1,7 @@
 .cardBody{
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
   /* background-color: aquamarine; */
-  /* background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% ); */
-  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,107,141,1) 0%, rgba(0,69,91,1) 90% );
+  background-image:  linear-gradient( 76.3deg,  rgb(2, 19, 33) 12.6%, rgb(25, 27, 28) 82.8% );
   color: rgba(255, 255, 255, 0.808);
     overflow-y: scroll;
     border-radius: 8px;
@@ -14,13 +13,11 @@
   margin-top: 0px;
   padding:8px;
   top: 0px;
-  color: black;
+  color: wheat;
+  background-color: black;
   width: 100%;
-  text-align: center;
-  background-image:linear-gradient(0deg, #4481eb 0%, #04befe 100%);
-  /* overflow-y: scroll; */
   height: 64px;
-  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  /* box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; */
   
 }
 .cardBody::-webkit-scrollbar{

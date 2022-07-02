@@ -3,6 +3,7 @@ import "../CSS/Train.css";
 import { FaExchangeAlt } from "react-icons/fa";
 import { Button, Modal } from "react-bootstrap";
 import TrainCard from "../Sub-Components/JS/TrainCard";
+import { GiToadTeeth } from "react-icons/gi";
 
 // import TrainPage from "./TrainPage";
 
@@ -15,12 +16,20 @@ export default function Train() {
   const [show, setShow] = useState(false);
 
   var today = new Date();
-
-  var date =
-    today.getDate().toString() +
-    "0" +
-    (today.getMonth() + 1).toString() +
-    today.getFullYear().toString();
+  var day,month; 
+  if(today.getDate()<9){
+    day = "0"+today.getDate().toString();
+  }
+  else{
+    day = today.getDate().toString();
+  }
+  if(today.getMonth()>=11){
+    month = (today.getMonth()+1).toString();
+  }
+  else{
+    month = "0"+ (today.getMonth()+1).toString();
+  }
+  var date = day + month + today.getFullYear().toString();
   const axios = require("axios");
   const handleClose = () => setShow(false);
   const handleShow = () => {
@@ -111,7 +120,7 @@ export default function Train() {
           <Modal.Title>Modal heading</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          Do you Redirect to ixigo trains ? <br /> {To} -- {From} , Date :{" "}
+          Do you Redirect to ixigo trains ? <br /> {From} -- {To} , Date :{" "}
           {date}
         </Modal.Body>
         <Modal.Footer>
@@ -159,21 +168,23 @@ export default function Train() {
               {" "}
               <h2> Train Search </h2>
             </div>
-            <input
-              type="text"
-              name="to"
-              id="to"
-              placeholder="Station Code (To)"
-              onChange={setChangeTo}
-            />{" "}
-            <FaExchangeAlt />
+            {" "}
             <input
               type="text"
               name="to"
               id="to"
               placeholder="Station Code (From)"
               onChange={setChangeFrom}
-            />{" "}
+            />
+            <FaExchangeAlt />
+            <input
+              type="text"
+              name="to"
+              id="to"
+              placeholder="Station Code (To)"
+              onChange={setChangeTo}
+            />
+            {" "}
             &nbsp;&nbsp;&nbsp;&nbsp; <br />
             <Button variant="primary" onClick={handleShow}>
               Search

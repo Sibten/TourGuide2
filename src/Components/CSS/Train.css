@@ -83,7 +83,7 @@
 
 .infoRow{
     margin-top: 10px;
-    background-color: rgba(0, 0, 0, 0.632);
+    /* background-color: rgba(0, 0, 0, 0.632); */
     /* border: 1px solid black; */
     height: auto;
     padding: 5px;
@@ -93,8 +93,10 @@
     color: rgb(183, 121, 5);
     margin-top: 20px;
     padding: 7px;
-    background-color: rgba(0, 0, 0, 0.568);
+    background-color: black;
+    text-align: center;
     color: wheat;
+
 }
 .infoRow .content{
     padding: 5px;
