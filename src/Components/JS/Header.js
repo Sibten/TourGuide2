@@ -10,7 +10,7 @@ export default function Header() {
       
       <Navbar className="NavCont" expand="lg">
       <Container>
-        <Navbar.Brand className="NavTitle"> <img src={logo} alt="logo"/>   </Navbar.Brand>
+        <Navbar.Brand className="NavTitle">  <Link to="/"> <img src={logo} alt="logo"/> </Link>   </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="button" />
         <Navbar.Collapse>
         <Nav className="me-auto">
