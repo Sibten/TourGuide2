@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+.main{
+    font-family: 'Poppins', sans-serif;
+    /* background-image: url("https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
+    background-image: linear-gradient( 76.3deg,  rgba(44,62,78,1) 12.6%, rgba(69,103,131,1) 82.8% );
+    background-attachment: fixed;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+.cityHead{
+    position: sticky;
+    top: 62px;
+    z-index: 1;
+    display: inline-flex;
+    border: 1px solid black;
+    width: 100%;
+    background-image: linear-gradient( 76.3deg,  rgba(44,62,78,1) 12.6%, rgba(69,103,131,1) 82.8% );
+    padding: 5px;
+    color: yellow;
+    justify-content: space-between;
+}
+.cityHead .title{
+    margin-top: 10px;
+}
+.cityHead .state{
+    margin-left: 5px;
+    margin-top: 15px;
+    float: right;
+    position: relative;
+}
+.cityHead button{
+    /* background-color: rgb(54, 16, 90); */
+    background-image: radial-gradient( circle 610px at 5.2% 51.6%, rgb(6, 7, 35) 0%, rgb(2, 0, 25) 97.5% );
+    color: white;
+    border-radius: 5px;
+    border: none;
+    /* height: 10px; */
+    width: 100px;
+}
+.row1{
+    margin: 5px;
+    /* justify-content: space-between; */
+    display: inline-flex;
+}
+
+.row1 .dataCont{
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 5px;
+    background-color: rgba(36, 34, 34, 0.571);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    justify-content: center;
+    text-align: justify;
+    width: 50%;
+}
+.row1 .dataCont h3{
+    color: white;
+}
+@media screen and (max-width: 600px) {
+    .row1 {
+      /* background-color: olive; */
+      display: block;
+      margin: 5px;
+    }
+    .row1 .dataCont{
+        margin-top: 10px;
+    margin-left: 1px;
+    /* margin-right: -5px; */
+    background-color: rgba(36, 34, 34, 0.571);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    justify-content: center;
+    text-align: justify;
+    width: 100%;
+    }
+  }
+.row2{
+    background:none;
+    height: 490px;
+}
+.row2 .rowtitle{
+    color: rgb(183, 121, 5);
+    margin-top: 20px;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.568);
+    color: wheat;
+}
+.row2 .content{
+    text-align: center;
+    display: inline-flex;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+.row2 .content::-webkit-scrollbar{
+    /* background-color: black; */
+    /* width: 5px; */
+    height: 5px;
+}

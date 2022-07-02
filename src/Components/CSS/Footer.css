@@ -1,0 +1,34 @@
+.footer{
+    background-image: radial-gradient( circle 610px at 5.2% 51.6%,  rgb(6, 7, 35) 0%, rgb(2, 0, 25) 97.5% );
+    color: white;
+    padding: 2vh;
+    bottom: 0;
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+.footer h4{
+    color: wheat;
+    font-family: 'Carter One', cursive;
+    font-weight: bolder;
+}
+.footer .social .icon{
+    justify-content: space-around;
+    margin: 5px;
+    font-size: large;
+}
+.footer .social .icon:hover:nth-child(1){
+    color: red;
+    cursor: pointer;
+}
+.footer .social .icon:hover:nth-child(2){
+    color: blueviolet;
+    cursor: pointer;
+}
+.footer .social .icon:hover:nth-child(3){
+    color: rgb(193, 76, 76);
+    cursor: pointer;
+}
+.footer .social .icon:hover:nth-child(4){
+    color: skyblue;
+    cursor: pointer;
+}

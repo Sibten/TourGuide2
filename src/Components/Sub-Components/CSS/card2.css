@@ -1,0 +1,23 @@
+.img{
+    width: 5%;
+    height: 5%;
+    
+}
+.destnCard{
+    z-index: 0;
+}
+.destnCard .title{
+    color: blue;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.destnCard .destnCardBody{
+    
+   width: 18rem;
+   overflow-y:scroll;
+   height: 420px;
+}
+.destnCard .destnCardBody::-webkit-scrollbar{
+    width: 0px;
+}

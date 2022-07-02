@@ -1,0 +1,32 @@
+<div className="trainSearch">
+        <div className="title"> <h2> Station Code Search </h2>  </div>
+        <input type="text" name="stncode" id="stncode" placeholder="Station Name" onChange={setChangeName} /> <br/>
+        <Button style={{ margin: "5px" }} onClick={onClickCode}>Search </Button>
+        <div className="ans">
+          <h4> Station Code:  {Code} </h4> 
+        </div>
+</div>
+
+var onClickCode = () =>{
+
+    console.log(Name);
+
+    // console.log("Loading...");
+    const cityTo = {
+      method: "GET",
+      url: "https://indianrailways.p.rapidapi.com/findstations.php",
+      params: { station: Name},
+      headers: {
+        "X-RapidAPI-Key": "1ea0de10f2msh5365be07950ff49p1de1a7jsn3f7e7465cf24",
+        "X-RapidAPI-Host": "indianrailways.p.rapidapi.com",
+      },
+    };
+    axios
+      .request(cityTo)
+      .then((response) => {
+        setCode(response["data"]["stations"][0]["stationCode"]);
+      })
+      .catch(function (error) {
+        console.error(error);
+      });
+  }

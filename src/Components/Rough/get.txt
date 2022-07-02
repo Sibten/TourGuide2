@@ -1,0 +1,39 @@
+import React, { Component } from 'react'
+
+export default class Developer extends Component {
+    constructor(){
+        super();
+        this.state={
+            list:null,
+        }
+    }
+    componentDidMount(){
+        fetch("http://localhost:3000/cities").then((Response)=>{
+            Response.json().then((result)=>{
+                this.setState({list:result})
+            })
+        })
+    }
+  render() {
+    // console.warn(this.state);
+    return (
+      <div>
+          {
+              this.state.list?
+              <div>
+                  {this.state.list.map((item,i)=>
+                    <div>
+                        <div>{item.name}</div>
+                        <div>{item.location}</div>
+                        <div>{item.country}</div>
+                        <hr></hr>
+                    </div>
+                  )}
+              </div>
+              :<p>Please wait</p>
+          }
+      </div>
+      
+    );
+  }
+}

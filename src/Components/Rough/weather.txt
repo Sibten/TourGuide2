@@ -1,0 +1,37 @@
+import React, { useState } from 'react'
+import axios from "axios"
+
+
+export default function Developer() {
+  const[Data,setData] = useState("");
+  const[Temp,setTemp] = useState("");
+
+  const change = (e) =>{
+    setData(e.target.value);
+    console.log(e.target.value);
+  }
+  const handleClick = () =>{
+    console.log(Data);
+    var req = `https://api.openweathermap.org/data/2.5/weather?q=${Data}&appid=e40930f22babe508df3bbc1157538062`
+
+    axios.get(req).then((Response)=>{
+      setTemp(Response['data']['main']['temp']-273.15) ;
+     })
+
+    // console.log(req);
+  }
+  var cuTemp = parseFloat(Temp);
+  // cuTemp = cuTemp.toString();
+
+  return (
+    
+    <div> 
+      Developer
+        <input type="text" name="temp" id="temp" onChange={change} />
+        <button onClick={handleClick}>Click me</button>
+        <div className="ans">
+          {cuTemp.toFixed(2) } &deg; C
+        </div>
+      </div>
+  );
+}

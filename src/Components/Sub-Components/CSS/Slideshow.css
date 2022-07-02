@@ -1,0 +1,14 @@
+.slideshow img{
+    width: 80%;
+    height:80%;
+}
+.slideshow .slideItem {
+    color: black;
+    background-color: black;
+}
+.slideshow .slideItem .cap{
+    color: white;
+    font-size: 85%;
+    background-color: rgba(0, 0, 0, 0.521);
+    border-radius: 5px;
+}

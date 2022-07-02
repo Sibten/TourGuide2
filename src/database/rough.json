@@ -1,0 +1,731 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1655991746753,
+    "data": [
+        {
+            "train_number": "19411",
+            "train_name": "Ajmer Intercity",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "SBIB",
+            "train_destination_station": "Gagret",
+            "train_destination_station_code": "DLPC",
+            "depart_time": "09:10:00",
+            "arrival_time": "18:45:00",
+            "distance": "492",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A",
+                "SL"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "19263",
+            "train_name": "Delhi Sr Express",
+            "train_type": "M",
+            "run_days": [
+                "Mon",
+                "Fri"
+            ],
+            "train_origin_station": "Porbandar",
+            "train_origin_station_code": "PBR",
+            "train_destination_station": "New Delhi",
+            "train_destination_station_code": "DEE",
+            "depart_time": "00:50:00",
+            "arrival_time": "10:55:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL"
+            ],
+            "day_of_journey": 2
+        },
+        {
+            "train_number": "19403",
+            "train_name": "Sultanpur Exp",
+            "train_type": "M",
+            "run_days": [
+                "Mon"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Sultanpur",
+            "train_destination_station_code": "SLN",
+            "depart_time": "06:05:00",
+            "arrival_time": "15:50:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "19707",
+            "train_name": "Amrapur Aravali",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Mumbai",
+            "train_origin_station_code": "BDTS",
+            "train_destination_station": "Sri Ganganagar",
+            "train_destination_station_code": "SGNR",
+            "depart_time": "04:50:00",
+            "arrival_time": "16:25:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL"
+            ],
+            "day_of_journey": 2
+        },
+        {
+            "train_number": "18421",
+            "train_name": "Puri Ajmer Exp",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Wed"
+            ],
+            "train_origin_station": "Puri",
+            "train_origin_station_code": "PURI",
+            "train_destination_station": "Ajmer",
+            "train_destination_station_code": "AII",
+            "depart_time": "11:35:00",
+            "arrival_time": "21:10:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL"
+            ],
+            "day_of_journey": 3
+        },
+        {
+            "train_number": "19415",
+            "train_name": "Adi Svdk Exp",
+            "train_type": "M",
+            "run_days": [
+                "Sat"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Jammu",
+            "train_destination_station_code": "SVDK",
+            "depart_time": "20:20:00",
+            "arrival_time": "04:50:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "20937",
+            "train_name": "Pbr Dee Express",
+            "train_type": "M",
+            "run_days": [
+                "Mon",
+                "Fri"
+            ],
+            "train_origin_station": "Porbandar",
+            "train_origin_station_code": "PBR",
+            "train_destination_station": "New Delhi",
+            "train_destination_station_code": "DEE",
+            "depart_time": "03:38:00",
+            "arrival_time": "11:40:00",
+            "distance": "485",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 2
+        },
+        {
+            "train_number": "22949",
+            "train_name": "Bdts Dee Sfast",
+            "train_type": "M",
+            "run_days": [
+                "Tue"
+            ],
+            "train_origin_station": "Mumbai",
+            "train_origin_station_code": "BDTS",
+            "train_destination_station": "New Delhi",
+            "train_destination_station_code": "DEE",
+            "depart_time": "19:40:00",
+            "arrival_time": "04:50:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "15270",
+            "train_name": "Jansadaran Exp",
+            "train_type": "M",
+            "run_days": [
+                "Fri"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Muzaffarpur",
+            "train_destination_station_code": "MFP",
+            "depart_time": "17:35:00",
+            "arrival_time": "02:00:00",
+            "distance": "491",
+            "class_type": [
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "19401",
+            "train_name": "Adi Lucknow Ex",
+            "train_type": "M",
+            "run_days": [
+                "Sun"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Lucknow",
+            "train_destination_station_code": "LKO",
+            "depart_time": "09:50:00",
+            "arrival_time": "18:05:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "19269",
+            "train_name": "Pbr Mfp Express",
+            "train_type": "M",
+            "run_days": [
+                "Wed",
+                "Thu"
+            ],
+            "train_origin_station": "Porbandar",
+            "train_origin_station_code": "PBR",
+            "train_destination_station": "Muzaffarpur",
+            "train_destination_station_code": "MFP",
+            "depart_time": "03:38:00",
+            "arrival_time": "11:40:00",
+            "distance": "485",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 2
+        },
+        {
+            "train_number": "20939",
+            "train_name": "Adi Sln Sf Exp",
+            "train_type": "M",
+            "run_days": [
+                "Mon"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Sultanpur",
+            "train_destination_station_code": "SLN",
+            "depart_time": "08:00:00",
+            "arrival_time": "16:10:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "09039",
+            "train_name": "Bdts Aii Sf Spl",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Mumbai",
+            "train_origin_station_code": "BDTS",
+            "train_destination_station": "Ajmer",
+            "train_destination_station_code": "AII",
+            "depart_time": "08:20:00",
+            "arrival_time": "17:00:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 2
+        },
+        {
+            "train_number": "16532",
+            "train_name": "Garib Nawaz Exp",
+            "train_type": "M",
+            "run_days": [
+                "Thu"
+            ],
+            "train_origin_station": "Bengaluru",
+            "train_origin_station_code": "SBC",
+            "train_destination_station": "Ajmer",
+            "train_destination_station_code": "AII",
+            "depart_time": "05:55:00",
+            "arrival_time": "14:55:00",
+            "distance": "491",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A",
+                "SL"
+            ],
+            "day_of_journey": 3
+        },
+        {
+            "train_number": "19407",
+            "train_name": "Adi Varanasi Ex",
+            "train_type": "M",
+            "run_days": [
+                "Wed"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Varanasi",
+            "train_destination_station_code": "BSB",
+            "depart_time": "21:40:00",
+            "arrival_time": "06:15:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "20823",
+            "train_name": "Puri Aii S F",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Wed"
+            ],
+            "train_origin_station": "Puri",
+            "train_origin_station_code": "PURI",
+            "train_destination_station": "Ajmer",
+            "train_destination_station_code": "AII",
+            "depart_time": "10:00:00",
+            "arrival_time": "18:55:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL"
+            ],
+            "day_of_journey": 3
+        },
+        {
+            "train_number": "12548",
+            "train_name": "Adi Agc Sf Spl",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Tue",
+                "Wed",
+                "Sat"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Agra",
+            "train_destination_station_code": "AGC",
+            "depart_time": "16:30:00",
+            "arrival_time": "00:35:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "16210",
+            "train_name": "Ajmer Express",
+            "train_type": "M",
+            "run_days": [
+                "Mon",
+                "Wed"
+            ],
+            "train_origin_station": "Mysore",
+            "train_origin_station_code": "MYS",
+            "train_destination_station": "Ajmer",
+            "train_destination_station_code": "AII",
+            "depart_time": "05:55:00",
+            "arrival_time": "14:55:00",
+            "distance": "491",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A",
+                "CC",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 3
+        },
+        {
+            "train_number": "12915",
+            "train_name": "Ashram Express",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "New Delhi",
+            "train_destination_station_code": "DLI",
+            "depart_time": "19:15:00",
+            "arrival_time": "02:20:00",
+            "distance": "491",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "12989",
+            "train_name": "Dadar Ajmer Sf",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Wed",
+                "Fri"
+            ],
+            "train_origin_station": "Mumbai",
+            "train_origin_station_code": "DDR",
+            "train_destination_station": "Ajmer",
+            "train_destination_station_code": "AII",
+            "depart_time": "23:10:00",
+            "arrival_time": "08:05:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "22451",
+            "train_name": "Bdts Cdg Sf Exp",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Wed"
+            ],
+            "train_origin_station": "Mumbai",
+            "train_origin_station_code": "BDTS",
+            "train_destination_station": "Chandigarh",
+            "train_destination_station_code": "CDG",
+            "depart_time": "18:55:00",
+            "arrival_time": "03:40:00",
+            "distance": "491",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "19031",
+            "train_name": "Yoga Express",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Rishikesh",
+            "train_destination_station_code": "YNRK",
+            "depart_time": "10:50:00",
+            "arrival_time": "20:25:00",
+            "distance": "514",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "14312",
+            "train_name": "Bhuj Be Spl",
+            "train_type": "M",
+            "run_days": [
+                "Mon",
+                "Tue",
+                "Thu"
+            ],
+            "train_origin_station": "Bhuj",
+            "train_origin_station_code": "BHUJ",
+            "train_destination_station": "Bareilly",
+            "train_destination_station_code": "BE",
+            "depart_time": "22:06:00",
+            "arrival_time": "05:45:00",
+            "distance": "485",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "19409",
+            "train_name": "Adi Gkp Exp",
+            "train_type": "M",
+            "run_days": [
+                "Wed",
+                "Fri"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Gorakhpur",
+            "train_destination_station_code": "GKP",
+            "depart_time": "09:50:00",
+            "arrival_time": "18:05:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "14702",
+            "train_name": "Aravali Exp",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Mumbai",
+            "train_origin_station_code": "BDTS",
+            "train_destination_station": "Sri Ganganagar",
+            "train_destination_station_code": "SGNR",
+            "depart_time": "04:45:00",
+            "arrival_time": "14:15:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 2
+        },
+        {
+            "train_number": "19717",
+            "train_name": "Sbib Dlpc Exp",
+            "train_type": "M",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "SBIB",
+            "train_destination_station": "Gagret",
+            "train_destination_station_code": "DLPC",
+            "depart_time": "09:45:00",
+            "arrival_time": "17:50:00",
+            "distance": "485",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "12216",
+            "train_name": "Dee Garibrath",
+            "train_type": "M",
+            "run_days": [
+                "Mon",
+                "Tue",
+                "Thu",
+                "Sat"
+            ],
+            "train_origin_station": "Mumbai",
+            "train_origin_station_code": "BDTS",
+            "train_destination_station": "New Delhi",
+            "train_destination_station_code": "DEE",
+            "depart_time": "18:50:00",
+            "arrival_time": "03:40:00",
+            "distance": "513",
+            "class_type": [
+                "3A"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "12957",
+            "train_name": "Adi Ndls Raj Ex",
+            "train_type": "R",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri",
+                "Sat"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "New Delhi",
+            "train_destination_station_code": "NDLS",
+            "depart_time": "18:30:00",
+            "arrival_time": "00:55:00",
+            "distance": "491",
+            "class_type": [
+                "1A",
+                "2A",
+                "3A"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "22548",
+            "train_name": "Adi Gwl Sf Spl",
+            "train_type": "M",
+            "run_days": [
+                "Mon",
+                "Thu",
+                "Fri"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ADI",
+            "train_destination_station": "Gwalior",
+            "train_destination_station_code": "GWL",
+            "depart_time": "16:30:00",
+            "arrival_time": "00:35:00",
+            "distance": "491",
+            "class_type": [
+                "2A",
+                "3A",
+                "SL",
+                "2S"
+            ],
+            "day_of_journey": 1
+        },
+        {
+            "train_number": "09543",
+            "train_name": "Asarva - Dungarpur Demu Special",
+            "train_type": "P",
+            "run_days": [
+                "Sun",
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu",
+                "Fri"
+            ],
+            "train_origin_station": "Ahmedabad",
+            "train_origin_station_code": "ASV",
+            "train_destination_station": "Dungarpur",
+            "train_destination_station_code": "DNRP",
+            "depart_time": "10:00:00",
+            "arrival_time": "14:05:00",
+            "distance": "172",
+            "class_type": [
+                "GN"
+            ],
+            "day_of_journey": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "trains":{
+        "luxry":["Maharajas' Express","Palace On Wheels","The Deccan Odyssey","Golden Chariot"],
+        "vandebharat" :[22439],
+        "tejas":[22119,21120,22672],
+        "humsafar":[22437,22913,22460,22867,22171],
+        "rajdhani":[12951,12301,12423,12313,12426],
+        "shatabdi":[12050,12034,12002,12013,12009]
+    },
+    "Shimla":{
+        "station":["Shimla(SML)","Jutogh (JTO)","Summer Hill (SHZ)"],
+        "reach":"Delhi to Kalka to Shimla",
+        "trains":[12011,12311,12005,22455,52455,52451,52453,52459],
+        "station-grade":"D",
+        "#platform":2,
+        "NStation":["Kalka (KLK)","Ambala Cant Jn (UMB)","Ludhiana Jn (LDH)","New Delhi (NDLS)","Chandigarh (CDG)"]
+    },
+    "Agra":{
+        "stations":["Agra Cantt (AGC)(Main)","Agra Fort (AF)","Agra City (AGA)","Raja Ki Mandi (RKM) "],
+        "reach":"Delhi to Agra (famous route)",
+        "trains" :[22694,12780,16318,16688,22221,12137,12002,12050,12612,12616,22406,14212,12448,12628,12554,22691],
+        "station-grade":"A",
+        "#plateform":6,
+        "NStation":["Tundla Jn (TDL)","Mathura Jn (MTJ)","New Delhi (NDLS)"]
+    }
+    
+}

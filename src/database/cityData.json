@@ -1,0 +1,56 @@
+{
+    "cityList" : ["shimla","agra","kutch","goa"],
+    "shimla":{
+        "ovc":"Capital of Himachal Pradesh is one of the most popular hill stations of India and located in Himalaya Mountain Range, Shimla is sometimes even know to be the queen of hill.The beauty of the place was god gifted and till the date, Shimla is known as the heaven on Earth" ,
+        "history":"During the early 1800 Shimla was a dense forest area in the mountains with a temple and few scattered house, in 1819 the British government took the imitative to build a station at the hill.Shimla comes from the word goddess Shyamala Devi (The temple for same name was located on the top of Jhaku hill).In the year 1864, the British announced Shimla as the summer capital of the world.Post-independence Shimla lies on the border with the state of Punjab and Himachal Pradesh and hence was named as the capital of Punjab initially. But in year 1966, it was removed as the capital of Punjab and made the capital of Himachal Pradesh.",
+        "state":"Himachal Pradesh",
+        "country":"Northen India, India",
+        "places":["The Ridge of Shimla","Jakhoo Hill","Green Valley","Kufri","Christ Church"],
+        "month-temp":"https://tinyurl.com/3fnwmex5",
+        "month-rain":"https://tinyurl.com/uesf3arv",
+        "month-humidity":"https://tinyurl.com/2jkpxz3s",
+        "month-precp":"https://weather-and-climate.com/uploads/average-rainfall-india-shimla-inches.png",
+        "bestTime":"During the month of April, May, June, July, August and September you are most likely to experience good weather with pleasant average temperatures that fall between 20 degrees Celsius (68°F) and 26 degrees Celsius (79°F).",
+        "plane":"There are daily flights from Delhi to Shimla Airport at Jubbarhatti, at a distance of 23 kms from the city.",
+        "train":"The Kalka-Shimla rail line with 102 tunnels offers breathtaking view of the terrain as the journey chugs into higher ground. Regular trains ply between Delhi and Kalka from where you can board the Kalka-Shimla train on this UNESCO heritage mountain rail track.",
+        "road":"Shimla has good road connectivity. Ordinary and luxury coaches regularly ply between Delhi, Chandigarh and the city. Within the state, private and public transport services are available for Kullu-Manali, Dharamshala and all other small and big towns of the state. Taxi services in the city is available on demand.",
+        "nearcity":"Shimla is well connected with the cities like Chandigarh(112km), Delhi(370 km), Dehradun(223km) and Kalka(87km) though roadways",
+        "famousDish":["Madra","Sidu","Dhaam","Thukpa","Babru"]
+    },
+    "agra":{
+        "ovc":"Home to some of the most iconic historical monuments in the world and India's proud representative of the Seven Wonders of the World- the Taj Mahal, Agra is a city on the banks of the river Yamuna in the northern state of Uttar Pradesh, India. It is 378 kilometres west of the state capital, Lucknow, 206 kilometres south of the national capital New Delhi, 58 kilometres south from Mathura and 125 kilometres north of Gwalior. Agra is one of the most populous cities in Uttar Pradesh, and the 24th most populous in India.",
+        "history":"Agra is a historical city located on the river bank of Yamuna, Uttar Pradesh. It was founded by Sikandar Lodhi. It had over a population of 1.7 million. This is the popular tourist destination in India which attracts tourists from all over the world. It had semi-arid climate and follows different seasons like autumn, monsoon, summer and winter. This place was well-known for the Mughal era. Agra is the well known glorious city from the time of Mahabharata. Most of the Mughal generations maintained Agra as their capital. Agra achieved glory and prestige during the rule of Emperor Akbar. Agra city is full of lovely and priceless architectural and historical monuments all dignity Mughal. Agra is famous for its markets and candy for \"Petha\".",
+        "state":"Uttar Pradesh",
+        "country":"India",
+        "places":["Jama Masjid","Akbar's Tomb","Fatehpur Sikri","Taj Mahal","Agra Fort"],
+        "month-temp":"https://weather-and-climate.com/uploads/average-temperature-india-agra.png",
+        "month-rain":"https://weather-and-climate.com/uploads/average-raindays-india-agra.png",
+        "month-humidity":"https://weather-and-climate.com/uploads/average-relative-humidity-india-agra.png",
+        "month-precp":"https://weather-and-climate.com/uploads/average-rainfall-india-agra.png",
+        "bestTime":"The best travel months for Agra and the Taj Mahal are November to March. After the pleasant sunny days of these winter months the temperature rises the end of March and it becomes to warm to visit Agra. The dry heat continues until May, after that the monsoon rains follow which bring a lot of rain and no cooling. During the month of January, February and December you are most likely to experience good weather with pleasant average temperatures that fall between 20 degrees Celsius (68°F) and 26 degrees Celsius (79°F).",
+        "plane":"Agra's Kheria airport is also a military base. It is a seasonal commercial airport and is connected only by Air India flights from New Delhi. The flight from Delhi to Agra is less than an hour long. Kheria airport is 13 kilometres away from Agra city. Hire a taxi from the airport to get to the city, which should take you around 10-15 minutes depending on traffic.",
+        "train":"Agra is situated on the Delhi-Mumbai and Delhi-Chennai route and is well connected to most cities across India. There are regular trains to Agra from cities like Delhi, Jaipur, Gwalior and Jhansi. Agra is also well connected to cities in other parts of the country such as Kolkata, Mumbai and Chennai. There are five railway stations in Agra -Agra Cantt Station (the main station), Agra Fort Railway Station, Raja ki Mandi, Agra City and Idgah Railway Station. The Taj Mahal and Agra Fort are a short distance away from Agra Cantt railway station and one can hire a pre-paid taxi, auto rickshaw or even a cycle rickshaw to get to these attractions.",
+        "road":"Agra is well connected by bus to cities like Delhi, Jaipur, Gwalior, Lucknow and Kanpur. Daily buses ply between these cities. Agra has two major interstate bus terminals called Idgah Bus Stand (which is located right in the centre of the city and is 8 kilometres from the Taj Mahal) and ISBT (which is located at a distance of 12 kilometres from the Taj Mahal).",
+        "nearcity":"New Delhi",
+        "famousDish":["Madra","Sidu","Dhaam","Thukpa","Babru"]
+    },
+    "goa": {
+        "ovc": "Goa stands 6th among the top ten Nightlife cities in the world in National Geographic Travel. A water sport is the prime attraction of the state. Popular beaches such as Baga and Calangute offer jet-skiing, parasailing, banana boat rides, water scooter rides, and much more",
+        "history": "Goa has been a very important historical and cultural centre since ancient times. In a Hindu scripture Mahabharata it is referred as Gopakpattan or Gomant and in Sutra- Samhita it was mentioned as Govapuri. Located on India’s West coast, Goa is a former Portuguese colony with prolific history. The state has unique blend of Indian and Portuguese culture, art and architecture that pulls approx 2.5 millions (wiki) tourists every year.",
+        "state": "Goa",
+        "country": "India",
+        "places": ["Mangeshi Temple","Church Of Our Lady of Miracles","Baga Beach","Reis Magos Fort","Calangute Beach"],
+        "month-temp": "https://weather-and-climate.com/uploads/average-temperature-india-candolim.png",
+        "month-rain": "https://weather-and-climate.com/uploads/average-raindays-india-candolim.png",
+        "month-humidity": "https://weather-and-climate.com/uploads/average-relative-humidity-india-candolim.png",
+        "month-precp": "https://weather-and-climate.com/uploads/average-rainfall-india-candolim.png",
+        "bestTime": "The best time to visit Goa is from November to February when the weather is ideal for sightseeing and relaxing on the stunning beaches. The temperature during this time ranges around 20 to 30 degrees Celcius and it is also the peak tourist season in Goa. Monsoons from June to September are another great time to visit Goa if you love the beach during rains. Summer is not a good time to visit Goa. With the temperature fluctuating between 25 to 35 degrees Celcius, the weather from March to May is extremely hot and humid.",
+        "plane": "Dabolim is the main domestic as well as international airport which is located at approximately 26 kilometer from Panji (capital city of Goa). This airport has two dedicated terminals Terminal one is the domestic terminal and Terminal two is international terminal. This airport receives all major domestic flights including Air Asia, Air India, GoAir, Indigo, Jet Airways and SpiceJet from all major cities such as Bangalore, Delhi, Mumbai, Lucknow, Kolkata, Indore, Chennai and Pune. The airport is also served by flights from international destinations such as Muscat, Doha and Copenhagen. Travelers can hire private taxi/cab from outside the airport to reach anywhere in Goa.",
+        "train": "Railways is the most convenient way to reach Goa as the state is served by two major railheads, namely Vasco da Gama and Madgaon. These two railheads are extremely well linked to other major railway stations of the country through an extensive rail network. Madgaon receives trains on regular basis from New Delhi, where Goa Sampark Kranti Express and Trivandrum Express are the most prominent ones. Madgaon railway station is around 38 kilometer away from Panjim, Vasco da Gama railway is approximately 29 km away. Tourists can avail of taxi services from outside the railway stations.",
+        "road": "Goa has excellent network of roads and highways. The state is connected by four national highways that connect the city to the other major cities in India such as Mumbai, Mangalore, Belgaum, Hyderabad, Bangalore, Pune and Chennai. The state Government-run Kadamba Transport Corporation has many buses connecting Goa with other parts of India. Many privately operated buses also connect Goa to major cities in India.",
+        "nearcity": "Kolhapur",
+        "famousDish":["Madra","Sidu","Dhaam","Thukpa","Babru"]
+    }
+    
+
+}

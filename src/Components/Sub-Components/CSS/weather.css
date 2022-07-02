@@ -1,0 +1,58 @@
+.weatherBody{
+    margin-top:5px ;
+    background-color: rgba(0, 0, 0, 0.338);
+    color: white;
+    padding: 5px;
+    /* margin-bottom: 10px; */
+}
+.weatherBody h2{
+    background-color: black;
+    color: wheat;
+    padding: 5px;
+}
+.weatherBody .weatherFooter{
+    text-align: center;
+    margin-top: 10px;
+}
+.weatherBody .Weather{
+    display: inline-flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    width: 100%;
+}
+.weatherBody .Weather::-webkit-scrollbar{
+    height: 0px;
+}
+.weatherBody .Weather .weCard{
+    margin: 15px;
+}
+.weatherBody .weCard .data{
+    overflow-y: scroll;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(97,186,255,1) 0%, rgba(166,239,253,1) 90.1% );
+    color: black;
+    width: 220px;
+    padding: 12px;
+    height: 232px;
+    border-radius: 3px;
+}
+.weatherBody .weCard .data::-webkit-scrollbar{
+    width: 0px;
+}
+.weatherBody .weCard .data table{
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    width: 200px;
+}
+.weatherBody .weCard .data table tr td{
+    font-size: 17px;
+}
+.weatherBody .best h4{
+    color: wheat; 
+}
+.weatherBody .best{
+    /* margin-left: 20px; */
+    text-align: center;
+    background-color: black;
+    padding: 5px;
+}
+

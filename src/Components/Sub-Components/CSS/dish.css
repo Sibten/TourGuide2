@@ -1,0 +1,39 @@
+.main h2{
+    color: wheat;
+    margin-top: px;
+    padding: 10px;
+    background-color: black;
+}
+.dishes{
+    /* display: inline-flex; */
+    /* margin-left: 1px; */
+    padding: 10px;
+    margin-top: -10px;
+    overflow-x: scroll;
+    /* background-color: black; */
+}
+.dishes::-webkit-scrollbar{
+    height: 0px;
+}
+.dishes .dishCard{
+    display: inline-flex;
+    overflow-y: hidden;
+    /* margin-left: 5px; */
+}
+.dishes .dishCard .cardBody{
+    width: 18rem;
+    max-height:30rem ;
+    overflow-y:scroll ;
+  margin-left:20px;
+  text-align:justify;
+  color: black;
+  background-color: white;
+}
+.dishes .dishCard .cardBody::-webkit-scrollbar{
+    width: 0px;
+}
+.dishes .dishCard .cardBody .dishImg{
+    height: 200px;
+    position: sticky;
+    top: 0;
+}

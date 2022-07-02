@@ -1,0 +1,45 @@
+import React, { Component } from 'react'
+
+export default class Developer extends Component {
+    constructor(){
+        super();
+        this.state={
+            sData:null,
+            fdata:null
+        }
+    }
+    search(key){
+        // console.log(key)
+        // console.log("http://localhost:3000/cities?q="+key)
+        
+        fetch("http://localhost:3000/cities?q="+key).then((data)=>{
+            data.json().then((resp)=>{
+                // console.log(resp)
+                this.setState({sData:resp})
+            })
+        })
+    }
+  render() {
+    // console.warn(this.state);
+    return (
+      <div>
+          <input type="text" onChange={(event)=>this.search(event.target.value)}/>
+
+              <div>
+              {
+                  this.state.sData?<div>
+                      {
+                          this.state.sData.map((item)=>
+                            <div>{item.name} </div>
+                          )
+                      }
+
+                  </div>: "Please wait"
+              }
+          </div>
+  
+      </div>
+      
+    );
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "SlideShow": 
+    {
+      "s1": {
+        "title":"Taj Mahal, Agra, Uttar Pradesh",
+        "link": "https://images.pexels.com/photos/3734373/pexels-photo-3734373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "details": "The Taj Mahal , is an ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra"
+      },
+      "s2": {
+          "title":"Victoria Memorial, Kolakata, West Bangal",
+        "link": "https://images.pexels.com/photos/11893196/pexels-photo-11893196.jpeg",
+        "details": "The Victoria Memorial is a large marble building in Central Kolkata, which was built between 1906 and 1921"
+      },
+      "s3": {
+          "title":"Jal Mahal, Jaipur, Rajasthan",
+        "link": "https://images.pexels.com/photos/11750470/pexels-photo-11750470.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=1",
+        "details": "Jal Mahal (meaning Water Palace) is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India"
+      }
+    },
+  "popular":{
+    "The Ridge of Shimla":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/1913_20190523190338.jpg",
+      "loc":"Center of Shimla, Shimla, Himachal Pradesh",
+      "details":"The Ridge road is large open space, located in the center of shimla. The ridge is the hub of all cultural ativities of shimla. It is situated along the mall road, which is  famous shopping center of shimla"
+    },
+    "Christ Church":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/Simla_ridge01_20170913144816.jpg",
+      "loc":"Chirst Church,The ridge of shimla,Shimla Himachal Pradesh",
+      "details":"Christ Church in Shimla is the second oldest church in all of India and is constructed in the Neo-Gothic style. It is located in the area known as The Ridge in Shimla and is a popular tourist spot apart from being a revered place of worship."
+    },
+    "Jakhoo Hill":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/1024px-View_of_Jhakoo_Hanuman_from_the_Ridge_20190618192815.JPG",
+      "loc":"The Highest Point of the city, Shimla, Himachal Pradesh",
+      "details":"The highest point of the city is jakhoo hill Shimla that is covered with Alpine Trees. At the top of the flat hill is the colorful Jakhoo Templeand newly constructed Hanuman Statue. Jakhoo Hill Shimla is a favourite escape for visitor wanting peace and calm for the city far below"
+    },
+    "Green Valley" : {
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/Green_Valley_Shimla_20170807131601.jpg",
+      "loc":"Kufri, Shimla, Himachal Pradesh",
+      "details":"Also Known as the Hassan Valley, Green Valley, A popular attraction in Himchal Pradesh, Promises an unforgottable holidy exprience to tourist of all age. From solo travellers tp honeymooners and family with kid, Green Valley has something for each and every one"
+    },
+    "Kufri":{
+      "link":"https://www.holidify.com/images/bgImages/KUFRI.jpg",
+      "loc":"Kufri, Hill Station, Shimla, Himachal Pradesh",
+      "details":"Kufri is a resort hill station in the district of the Shimla, India. it is located 20 km from the state capital Shimla on the National Highway No. 22. On the kufri Avenue , the main thoroughfare, boutiques and Restaurants mix with indian-style hotels. "
+    },
+    "Hawamahal":{
+      "link":"https://www.holidify.com/images/bgImages/JAIPUR.jpg",
+      "loc":"HawaMahal, Jaipur, Rajasthan, India",
+      "details":"The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers."
+    },
+    "Darjiling":{
+      "link":"https://www.holidify.com/images/bgImages/DARJEELING.jpg",
+      "loc":"Darjiling, West Bengal, India",
+      "details":"The previous summer capital of India under the British Raj, Darjeeling has come off age as one of the most sought after hill stations in India. Located in West Bengal."
+    },
+    "Lakshdweep":{
+      "link":"https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg",
+      "loc":"Lakshdweep, Union Teritary,India",
+      "details":"Literally meaning a 'hundred thousand islands', Lakshadweep has few of the most beautiful and exotic islands and beaches of India."
+    },
+    "Park":{
+      "link":"https://www.holidify.com/images/bgImages/KANHA-NATIONAL-PARK.jpg",
+      "loc":"Kanha National Park, MadhyaPradesh, India",
+      "details":"A delightful town situated in the district of Mandla, Kanha National park is the haven of an exceptionally wide variety of wild animals, including the majestic creature tiger."
+    },
+    "Jaisalmer":{
+     "link":"https://www.holidify.com/images/tooltipImages/JAISALMER.jpg",
+     "loc":"Jaisalmer Desert, Rajasthan, India",
+     "details":"Situated close to the Pakistan Border, Jaisalmer is a major tourist spot located in the northwestern state of Rajasthan in India. It is called the 'golden city' due to its bounteous golden dunes flowing in the Thar Desert. " 
+    },
+    "Leh":{
+      "link":"https://www.holidify.com/images/tooltipImages/LADAKH.jpg",
+      "loc":"Leh Ladakh, Jammu and Kashmir, India",
+      "details":"A land like no other with superabundance of attractions to visit and phantasmagoric and fabulous landscapes, amazing people and culture, Ladakh is truly a heaven on Earth."
+    },
+    "Goa":{
+      "link":"https://www.holidify.com/images/bgImages/GOA.jpg",
+      "loc":"Goa, India",
+      "details":"Lying on the western coast, Goa is India's smallest state and unlike any other, known for its endless beaches, stellar nightlife, eclectic seafood, world-heritage listed architecture."
+    },
+    "Srinagar":{
+      "link":"https://www.holidify.com/images/bgImages/SRINAGAR.jpg",
+      "loc":"Srinagar, Jammu and Kashmir, India",
+      "details":"Famously known as 'Heaven on Earth, Srinagar is located in the union territory of Jammu & Kashmir, on the banks of river Jhelum."
+    },
+    "Shimla":{
+      "link":"https://www.holidify.com/images/bgImages/SHIMLA.jpg",
+      "loc":"Shimla, Himachal Pradesh, India",
+      "details":"Shimla is the capital of Himachal Pradesh and a popular hill-station among Indian families and honeymooners. Situated at the height of 2200m."
+    },
+    "Jama Masjid":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/Jama_Masjid_Agra_20170818230059.jpg",
+      "loc":"Jama Masjid Road, Agra, Uttar Pradesh",
+      "details":"The Jama Mosque is a 17th-century congregational mosque located in the historic core of Agra, Uttar Pradesh. It was built by Jahanara Begum, Padshah Begum (First Lady) of the Mughal Empire, during the reign of her father, Mughal Emperor Shah Jahan. It is one of the largest mosques in India. Today it is still in use, serving as the principal mosque for the city of Agra.[1] It stands opposite to the Agra Fort, and overlooks the Agra Fort Railway Station."
+    },
+    "Akbar's Tomb":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/3532697604_154069c424_b_20170405164042_20191104095108.jpg",
+      "loc":"Sikandra, Agra, Uttar Pradesh",
+      "details":"Akbar's tomb is the tomb of the Mughal emperor Akbar. It was built in 1605-1613 by his son Jahangir and is situated in 119 acres of grounds in Sikandra, a sub of Agra, Uttar Pradesh, India."
+    },
+    "Fatehpur Sikri":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1078858838_20200320164009.jpg",
+      "loc":"Station Rd, Fatehpur Sikri, Uttar Pradesh",
+      "details":"Built during the second half of the 16th century by the Emperor Akbar, Fatehpur Sikri (the City of Victory) was the capital of the Mughal Empire for only some 10 years. The complex of monuments and temples, all in a uniform architectural style, includes one of the largest mosques in India, the Jama Masjid."
+    },
+    "Taj Mahal":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/Taj_Mahal_28Edited29_20190510111052.jpeg",
+      "loc":"Taj Road, Agra, Uttar Pradesh",
+      "details":"white marble tomb built in 1631 - 48 in Agra, seat of the Mughal Empire, by Shah Jehan for his wife, Arjuman Banu Begum, the monument sums up many of the formal themes that have played through Islamic architecture. Its refined elegance is a conspicuous contrast both to the Hindu architecture of pre-Islamic India, with its thick walls, corbelled arches and heavy lintels, and to the Indo-Islamic styles, in which Hindu elements are combined with an eclecticassortment of motifs from Persian and Turkish sources"
+    },
+    "Agra Fort":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/799px-Agra_FortAgra_India_20200702133907.jpg",
+      "loc":"Rakabganj, Agra, Uttar Pradesh",
+      "details":"Agra is a historical fort in the city of Agra in India. It was built during 1565-1573 for Mughal Emperor Akbar. It was the main residence of the rulers of Sikarwar clan of Rajputs until mughals occupied it and Mughal Dynasty until 1638, when the capital was shifted from Agra to Delhi. "
+    },
+    "Mangeshi Temple":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/MangeshiTemple_20191111165128_20191111165150.jpg",
+      "loc":"Priol village, Ponda taluka, Central Goa,",
+      "details":"Mangeshi Temple or Shri Mangueshi Temple is Lord Shiva temple located in the Mangeshi village in Ponda region of Goa. The largest and most visited temple in Goa, it is built in the honour of Bhagwan Manguesh, the Kuldevata of Gaud Saraswat Brahmins. The deity is believed to be an incarnation of Lord Shiva, whose name was derived from 'Mam Girisha' the words used by Goddess Parvati when Lord Shiva made a successful attempt to scare her by taking the form of a Tiger"
+    },
+    "Church Of Our Lady of Miracles":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/attr_123856_20200827133545.jpg",
+      "loc":"End of the market road in Mapusa, Goa",
+      "details":"Church Of Our Lady of Miracles is a 16th century Church built by the Portuguese in Goa. The Church was initially dedicated to St. Jerome, therefore, it is also known as St. Jerome Church. Since the Portuguese destroyed a number of Hindu monuments to promote Christianity, it is believed that the church is built over a temple. The structure was destroyed in a fire around mid-1900. After the renovation, it was renamed as Church of our Lady of Miracles. It is most famous for its annual festival, on the 16th day after Easter."
+    },
+    "Baga Beach":{
+      "link":"https://www.holidify.com/images/compressed/attractions/attr_1828.jpg",
+      "loc":"Goa, India",
+      "details":"One of the most popular beaches in North Goa, Baga Beach is located close to Calangute beach, around 30 Km North of Panjim. Baga is the perfect destination to witness the dazzling nightlife of Goa as signature places such as Britto's, Tito's and Mambos are located in the vicinity. Being one of the most visited beaches in the North, Baga also offers a vast range of water sports."
+    },
+    "Reis Magos Fort":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/attr_123797_20200818122129.jpg",
+      "loc":"Bardez, Goa, India",
+      "details":"Reis Magos Fort is the oldest fort in Goa, located on the banks of River Bardez across Panjim in Goa. The 15th-century Portuguese fort was once a defence fortress which was later converted into a jail and then a hospital. Ruined and neglected, it was restored and finally opened to the public in 2012. The majestic fort with reddish walls is visible all the way from Panjim."
+    },
+    "Calangute Beach":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1314723038_20190822145625.jpg",
+      "loc":"Goa, India",
+      "details":"Situated 15 km from Panjim, Calangute Beach is the longest beach in North Goa, stretching from Candolim to Baga. Due to its sheer size and popularity, it is a hub for tourists and backpackers from all over the world."
+    },
+    "White Rann of Kutch":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/12541240504_4dfb68c9a4_o_20200413115445.jpg",
+      "loc":"Kutch, Dhordo, Bhuj, Gujarat",
+      "details":"White Desert in Kutch, also known as the Great Rann of Kutch, is located in western Gujarat. One of the hottest regions in India, the desert is the site of popular Rann Festival in Gujarat which is held from November to February every year. Camel rides, hot air balloon safari, jeep safaris, and watching cultural dances are popular things to do in White Desert in Kutch."
+    },
+    "Kutch Museum":{
+      "link":"https://www.holidify.com/images/cmsuploads/compressed/2320_20200428124604.jpg",
+      "loc":"Kutch Museum Road, Ghanshyam Nagar, Bhuj, Gujarat",
+      "details":"The oldest museum of Gujarat, the Kutch Museum boasts of its collection of the extinct Kutchi Script and ancient coins. Tribal artifacts are also a part of the museum along with many other kinds of objects on display exhibits of embroidery, paintings, arms, musical instruments, sculpture and precious metalwork."
+    },
+    "Dholavira":{
+      "link":"https://www.holidify.com/images/bgImages/DHOLAVIRA.jpg",
+      "loc":"Dholavira, Gadhada, Kutch,Gujarat",
+      "details":"Known as a remarkable excavation site during the Indus Valley Civilization, Dholavira was one of the most developed cities roughly 4500 years ago. It was a flourishing Harappan site between 2650 and 1450 BCE"
+   },
+   "Mandvi Beach":{
+    "link":"https://www.holidify.com/images/cmsuploads/compressed/Enjoying_Camel_Ride,_Mandvi_Beach,_Kachchh_-_panoramio_20191223192957.jpg",
+    "loc":"Mandvi Beach,Bhuj, Kutch,Gujarat",
+    "details":"Situated in the Kutch region of Gujarat, Mandvi Beach is a pristine and tranquil seashore which is one of the most popular holiday destinations in the region. In addition to being a laidback beach location, Mandvi Beach is popular for its camping and water sports facilities."
+   },
+   "Aina Mahal":{
+    "link":"https://www.holidify.com/images/cmsuploads/compressed/1200px-Damaged_Ainamahal_Bhuj_Kutch_Gujarat_20180404115041.jpg",
+    "loc":"Aina Mahal,Bhuj,Kutch, Gujarat",
+    "details":"The Aaina Mahal palace, or 'Hall of Mirrors' was built during the flamboyant rule of Lakhpatji in the middle of the 18th century. The responsibility of engineering, architecture and embellishment was entitled to Ram Singh Malam - a genius of an artist who took his training in Europe for 17 years but came back to India seeking name and fame. He was asked by the king to create this palace of dreams for him, and thus the Aina Mahal came into existence"
+  }
+
+},
+  "Destnbg":{
+    "link":"https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg"
+  }
+}

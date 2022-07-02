@@ -1,0 +1,49 @@
+.Header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.Header .NavCont{
+    position: static;
+    margin: 0%;
+    background-image: radial-gradient( circle 610px at 5.2% 51.6%,  rgb(6, 7, 35) 0%, rgb(2, 0, 25) 97.5% );
+    width: 100%;
+    color: wheat;
+    padding: 1vh;
+}
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+.Header .NavCont .NavTitle{
+    color: wheat;
+    font-family: 'Carter One', cursive;
+    font-size: 4vh;
+    font-weight: bolder;
+}
+.Header .NavCont .button{
+    background-color: wheat;
+}
+.Header .NavCont .NavItem .Link{
+    color: white;
+    float: left;
+    text-decoration: none;
+    padding: 1.5vh;
+    font-size: 110%;
+    justify-content: space-around;
+}
+.Header .NavCont .NavItem .Link::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background-color: wheat;
+    transition: width .2s;
+}
+.Header .NavCont .NavItem .Link:hover{
+    color: wheat;
+}
+.Header .NavCont .NavItem .Link:hover::after{
+    width: 100%;
+    transition: width .2s;
+}
+
+
+
