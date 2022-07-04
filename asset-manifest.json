@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TourGuide2/static/css/main.27828bff.css",
-    "main.js": "/TourGuide2/static/js/main.a817f59f.js",
-    "static/js/787.c4792038.chunk.js": "/TourGuide2/static/js/787.c4792038.chunk.js",
-    "static/media/heading.svg": "/TourGuide2/static/media/heading.2ede99da424ba911dee88bf13115090e.svg",
-    "static/media/IncrIndia.png": "/TourGuide2/static/media/IncrIndia.95ddbd11b6b842435817.png",
-    "index.html": "/TourGuide2/index.html",
-    "main.27828bff.css.map": "/TourGuide2/static/css/main.27828bff.css.map",
-    "main.a817f59f.js.map": "/TourGuide2/static/js/main.a817f59f.js.map",
-    "787.c4792038.chunk.js.map": "/TourGuide2/static/js/787.c4792038.chunk.js.map"
+    "main.css": "/TourGuide2/blob/master/src/App.js/static/css/main.27828bff.css",
+    "main.js": "/TourGuide2/blob/master/src/App.js/static/js/main.e8b839bc.js",
+    "static/js/787.c4792038.chunk.js": "/TourGuide2/blob/master/src/App.js/static/js/787.c4792038.chunk.js",
+    "static/media/heading.svg": "/TourGuide2/blob/master/src/App.js/static/media/heading.2ede99da424ba911dee88bf13115090e.svg",
+    "static/media/IncrIndia.png": "/TourGuide2/blob/master/src/App.js/static/media/IncrIndia.95ddbd11b6b842435817.png",
+    "index.html": "/TourGuide2/blob/master/src/App.js/index.html",
+    "main.27828bff.css.map": "/TourGuide2/blob/master/src/App.js/static/css/main.27828bff.css.map",
+    "main.e8b839bc.js.map": "/TourGuide2/blob/master/src/App.js/static/js/main.e8b839bc.js.map",
+    "787.c4792038.chunk.js.map": "/TourGuide2/blob/master/src/App.js/static/js/787.c4792038.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27828bff.css",
-    "static/js/main.a817f59f.js"
+    "static/js/main.e8b839bc.js"
   ]
 }
