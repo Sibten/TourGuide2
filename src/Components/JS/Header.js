@@ -17,7 +17,7 @@ export default function Header() {
             <Nav.Link className="NavItem"> <Link to="/" className="Link"> <FaHome/> &nbsp;&nbsp;Home </Link></Nav.Link>
             <Nav.Link  className="NavItem"> <Link to="/Places" className="Link"> <FaLocationArrow/> &nbsp;&nbsp;Places </Link></Nav.Link>
             <Nav.Link  className="NavItem"><Link to="/Train" className="Link"> <FaTrain/> &nbsp;&nbsp; Trains </Link></Nav.Link>
-            <Nav.Link  className="NavItem"><Link to="/Devloper" className="Link"> <FaCode/> &nbsp;&nbsp; Devloper </Link></Nav.Link>
+            {/* <Nav.Link  className="NavItem"><Link to="/Devloper" className="Link"> <FaCode/> &nbsp;&nbsp; Devloper </Link></Nav.Link> */}
         </Nav>
         </Navbar.Collapse>
         </Container>
