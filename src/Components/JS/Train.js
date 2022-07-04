@@ -4,6 +4,7 @@ import { FaExchangeAlt } from "react-icons/fa";
 import { Button, Modal } from "react-bootstrap";
 import TrainCard from "../Sub-Components/JS/TrainCard";
 import { GiToadTeeth } from "react-icons/gi";
+import LuxryTrain from "../Sub-Components/JS/LuxryTrain";
 
 // import TrainPage from "./TrainPage";
 
@@ -243,9 +244,7 @@ export default function Train() {
           </div>
         </div>
         <div className="luxry">
-          <div className="title">
-            <h3> Luxry Train in india </h3>
-          </div>
+          <LuxryTrain/>
         </div>
       </div>
     </>

@@ -1,0 +1,49 @@
+.head{
+    margin-top: 50px;
+    color: wheat;
+    background-color: black;
+    padding: 5px;
+}
+.lxrybody{
+    overflow-x: scroll;
+}
+.lxrybody::-webkit-scrollbar{
+    /* width: 0px; */
+    height: 0px;
+}
+.lxry{
+    display: inline-flex;
+    /* overflow-x: scroll;  */
+}
+.lxry .lcbody{
+    margin: 8px;
+}
+.lxry .lcbody .lcbodyPart{
+    width: 20rem;
+    height: 36rem;
+}
+.lxry .lcbody .lcbodyPart::-webkit-scrollbar{
+    width: 0px;
+}
+.lxry .lcbody .lcbodyPart .lctimg{
+    width: 100%;
+    min-height: 200px;
+    position: sticky;
+    top: 0;
+}
+.lxry .lcbody .lcbodyPart .lctitle{
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    padding: 5px;
+    text-align: center;
+    position: sticky;
+    top: 0 ;
+}
+.lxry .lcbody .lcbodyPart .lcbodydet{
+    overflow-y: scroll;
+    text-align: justify;
+}
+.lxry .lcbody .lcbodyPart .lcbodydet::-webkit-scrollbar{
+    width: 0px;
+}

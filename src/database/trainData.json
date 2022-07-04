@@ -4,6 +4,7 @@
 
     },
     "12951":{
+        "img":"https://st2.indiarailinfo.com/kjfdsuiemjvcya3/0/8/2/8/5283828/0/202204081558333081452.jpg",
         "tname":"Mumbai Central Tejas Rajdhani Express ",
         "source":"Mumbai Central/MMCT",
         "destn":"New Delhi/NDLS",
@@ -17,6 +18,7 @@
         "stoppage":"8"
     },
     "12301":{
+        "img":"https://st.indiarailinfo.com/kjfdsuiemjvcya22/0/0/8/6/4250086/0/screenshot20190304172106465com1864405.jpg",
         "tname":"Howrah Rajdhani Express (Via Gaya) ",
         "source":"Howrah Jn",
         "destn":"New Delhi/NDLS",
@@ -30,6 +32,7 @@
         "stoppage":"9"
     },
     "12423":{
+        "img":"https://st.indiarailinfo.com/kjfdsuiemjvcya24/0/3/2/3/4207323/0/img201901191517504024549.jpg",
         "tname":" Dibrugarh Rajdhani Express",
         "source":"Dibrugarh/DBRG",
         "destn":"New Delhi/NDLS",
@@ -43,6 +46,7 @@
         "stoppage":"21"
     },
     "12313":{
+        "img":"https://smedia2.intoday.in/btmt/images/stories/rajdhanibtsizes-660_113017011733.jpg",
         "tname":"Sealdah Rajdhani Express",
         "source":"Sealdah/SDAH",
         "destn":"New Delhi/NDLS",
@@ -56,6 +60,7 @@
         "stoppage":"8"
     },
     "12426":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/12425_Jammu_Rajdhani_Express_-_AC_1st_Class_coach.jpg/1024px-12425_Jammu_Rajdhani_Express_-_AC_1st_Class_coach.jpg",
         "tname":"Jammu Rajdhani Express",
         "source":"Jammu Tawi/JAT",
         "destn":"New Delhi/NDLS",
@@ -69,6 +74,7 @@
         "stoppage":"4"
     },
     "12050":{
+        "img":"https://files.followmytrip.app/upload/n0sVI3sDHSZGpuiXTwbYu-9qzk8/b5bdf24d-e653-46ba-a447-12acea2265e4_0.webp",
         "tname":"Gatiman Express",
         "source":"H Nizamuddin/NZM",
         "destn":"V Lakshmibai/VGLB",
@@ -82,6 +88,7 @@
         "stoppage":"4"
     },
     "12034":{
+        "img":"https://st.indiarailinfo.com/kjfdsuiemjvcya24/0/2/2/3/4393223/4/c111099356.jpg",
         "tname":"New Delhi - Kanpur Central Shatabdi Express",
         "source":"New Delhi /NDLS",
         "destn":"Kanpur Central/CNB",
@@ -95,6 +102,7 @@
         "stoppage":"4"
     },
     "12002":{
+        "img":"https://media.gettyimages.com/photos/shoot-of-bhopal-shatabdi-express-picture-id689894940?k=20&m=689894940&s=612x612&w=0&h=SOgfm6IUOeRpymOhyjrMML4TAN_2MQZzjy1CEsTYi9E=",
         "tname":"Bhopal Shatabdi Express",
         "source":"New Delhi /NDLS",
         "destn":"Rani Kamalapati/RKMP",
@@ -108,6 +116,7 @@
         "stoppage":"8"
     },
     "12013":{
+        "img":"https://st2.indiarailinfo.com/kjfdsuiemjvcya4/0/2/0/1/4301201/0/screenshot201904251345221850789.jpg",
         "tname":"New Delhi - Amritsar Shatabdi Express",
         "source":"New Delhi /NDLS",
         "destn":"Amritsar Jn/ASR",
@@ -121,6 +130,7 @@
         "stoppage":"8"
     },
     "12009":{
+        "img":"https://files.followmytrip.app/upload/NsSU7KslqxET3F2Ml+9JavLgIdc/a78e1180-73bf-4b9c-8042-08443efc422b_0.webp",
         "tname":"Ghandinagar Capital Shatadbdi Express",
         "source":"Mumbai Central/MMCT",
         "destn":"Ghandinagar Capital /GNC",
@@ -134,6 +144,7 @@
         "stoppage":"9"
     },
     "22437":{
+        "img":"https://st2.indiarailinfo.com/kjfdsuiemjvcya3/0/1/8/8/3730188/0/img20180807223802hdr012637198.jpg",
         "tname":"Prayagraj - Anand Vihar Terminal Humsafar Express",
         "source":"Prayagraj (Allahbad) /PRYJ",
         "destn":"Anand Vihar Terminal/ANVT",
@@ -147,6 +158,7 @@
         "stoppage":"3"
     },
     "22913":{
+        "img":"https://st.indiarailinfo.com/kjfdsuiemjvcya22/0/7/3/7/4326737/0/img20190526190548677043.jpg",
         "tname":"Sharasa Humsafar Express",
         "source":"Bandra Terminus/BDTS",
         "destn":"Saharsa Jn/SHC",
@@ -160,6 +172,7 @@
         "stoppage":"15"
     },
     "22460":{
+        "img":"https://st2.indiarailinfo.com/kjfdsuiemjvcya4/0/7/9/0/4539790/0/20200114132401013148466.jpg",
         "tname":"Baba Baidyanath Dham Deoghar Humsafar Express",
         "source":"Anand Vihar Terminal/ANVT",
         "destn":"Madhupur Jn/MDP",
@@ -173,6 +186,7 @@
         "stoppage":"11"
     },
     "22867":{
+        "img":"https://st2.indiarailinfo.com/kjfdsuiemjvcya4/0/9/1/7/2364917/0/img20170726142742hdr2684281.jpg",
         "tname":"H Nizamuddin Humsafar Express",
         "source":"Durg/DURG",
         "destn":"H Nizamuddin/NZM",
@@ -186,6 +200,7 @@
         "stoppage":"15"
     },
     "22171":{
+        "img":"https://st.indiarailinfo.com/kjfdsuiemjvcya24/0/6/4/5/3888645/0/img201810111330083898574.jpg",
         "tname":"Rani kamlapati Humsafar Express",
         "source":"Pune Jn/PUNE",
         "destn":"Rani Kamlapati/RKMP",
@@ -197,6 +212,83 @@
         "return":"221",
         "class":"3A,SL",
         "stoppage":"8"
-    }
+    },
+    "maharajas' express":{
+        "img":"https://www.themaharajaexpress.org/images/maharaja-express-photo/train/l/1.jpg",
+        "offical":"https://www.the-maharajas.com/",
+        "details":"5 most luxurious trains in the world. This half-a-mile long train boasts of professionals prepared to meet the highest quality of hospitality, fully stocked bars, lavish suites, butler services, and whatnot, and is one of the most expensive trains in India! Tourists onboard get to experience the richness of the country in the most distinguished way possible. Just for the record, it was voted World's Leading Luxury Train for the years 2012, 2013, and 2014, consecutively. Food - Vegetarian food and eggs are served hereMaharajas' Express is operational from October to April and plies on 5 different routes as mentioned below. ",
+        "routes":[
+            "The Heritage of India (Mumbai - Ajanta - Udaipur - Jodhpur - Bikaner - Jaipur - Ranthambore - Agra - Delhi)",
+            "Gems of India (Delhi - Agra - Ranthambore - Jaipur - Delhi)",
+            "The Indian Panorama (Delhi - Jaipur - Ranthambore - Fatehpur - Sikri - Agra - Gwalior - Orchha - Khajuraho - Varanasi - Lucknow - Delhi)",
+            "Indian Splendour (Delhi - Agra - Ranthambore - Jaipur - Bikaner - Jodhpur - Udaipur - Balasinor - Mumbai)",
+            "Treasures of India (Delhi - Agra - Ranthambore - Jaipur - Delhi)"
+        ],
+        "Cost":[
+            "Gems of India and Treasures of India - 4-day journeys for INR 2,57,950 (approx) each",
+            "Indian Splendour and The Indian Panorama - 8 days journey for INR 4,00,660 (approx) each",
+            "Heritage of India - 8 days journey for INR 4,58,280 approx"
+        ],
+        "opertation":"Maharajas' Express is operational from October to April and plies on 5 different routes as mentioned above"
+    },
+    "palace on wheels":{
+        "img":"https://powc.b-cdn.net/images/facilities-img-new.jpg",
+        "offical":"https://www.palacesonwheels.com/",
+        "details":"The Palace on Wheels is a luxury tourist train. It was launched by the Indian Railways in association with Rajasthan Tourism Development Corporation to promote tourism in Rajasthan.It is now known as Heritage Palace on Wheels.The train service was refurbished and relaunched in August 2009 with a new decor, itinerary and cuisine.",
+        "routes":[
+            "Delhi - Jaipur - Sawai Madhopur - Chittorgarh - Udaipur - Jaisalmer - Jodhpur - Bharatpur - Agra - Delhi"
+        ],
+        "Cost":[
+            "For international travelers: US$3500 + 4.5% Service tax",
+            "For Indian travelers: INR 2,10,000 + 4.5% Service tax"
+        ],
+        "opertation":"Months of operation for Palace on Wheels are from September to April. The 7 nights, 8 days journey includes 7 stoppages, where tourists are taken for city tours."
+    },
+    "the deccan odyssey":{
+        "img":"https://www.deccan-odyssey-india.com/images/main-header.jpg",
+        "offical":"https://www.deccan-odyssey-india.com/",
+        "details":"Inspired by the traveling style of the kings and rulers during different royal eras of ancient India, Deccan Odyssey is a 5-star hotel on wheels that takes you to some fascinating destinations of India. Royal treatment for passengers, palace-like interiors of the cabins, multi-cuisine restaurants, lounges, a conference car, an onboard spa, and other state-of-the-art amenities make it one of the best luxury trains in India and in the world as wel",
+        "routes":[
+            "Mumbai - Nasik - Ellora Cave - Ajanta Caves - Kolhapur - Goa - Ratnagiri - Mumbai",
+            "Delhi - Sawai Madhopur - Agra - Jaipur - Udaipur - Vadodara - Ellora Caves - Mumbai",
+            "Mumbai - Vadodara - Palitana - Sasan Gir - Somnath - Little Rann of Kutch - Modhera - Patan - Nashik - Mumbai",
+            "Mumbai - Vadodara - Udaipur - Jodhpur - Agra - Sawai Madhopur - Jaipur - Delhi",
+            "Mumbai - Bijapur - Aihole - Pattadakal - Hampi - Hyderabad - Ellora Caves - Ajanta Caves - Mumbai",
+            "Mumbai - Aurangabad - Ramtek - Tadoba - Ajanta - Nashik - Mumbai"
+        ],
+        "Cost":[
+            "For international travelers: US$5,810 + 4.5% Service tax",
+            "For Indian travelers: INR 3,71,900 + 4.5% Service tax"
+        ],
+        "opertation":"The Deccan Odyssey operates from October to April and the duration for all 6 routes is 7 nights, 8 days."
+    },
+    "golden chariot":{
+        "img":"https://www.goldenchariot.org/assets/img/Gallery/01.jpg",
+        "offical":"https://www.goldenchariot.org/",
+        "details":"The Golden Chariot is one of the superb luxury trains in India that takes you to some of the most famous tourist places in South India. Launched in 2008, the Golden Chariot is well known for its impeccable hospitality. The train has AC chambers with royal interiors, bars, restaurants serving multi-variety cuisines, a mini gym, Ayurveda spa, and other 5-star facilities luxury trains. Regarded by tourists as one of the best luxury trains of India, it was also awarded as Asia's Leading Luxury Train in the year 2013",
+        "routes":[
+            "Bangalore - Kabini - Mysore - Hassan - Hampi - Badami - Goa - Bangalore",
+            "Bangalore - Chennai - Mahabalipuram - Pondicherry - Thanjavur - Madurai - Thiruvananthapuram - Alleppey - Kochi - Bangalore"
+        ],
+        "Cost":[
+            "For international travelers: US$8,260 + 4.5% Service tax",
+            "For Indian travelers: INR 3,08,000 + 4.5% Service tax"
+        ],
+        "opertation":"The Golden Chariot runs from October to March, and the duration for both routes is 7 nights, 8 days."
 
+    },
+    "vande bharat express":{
+        "img":"https://st2.indiarailinfo.com/kjfdsuiemjvcya3/0/4/0/4/5212404/4/psx20210213051842525391.jpg",
+        "offical":"https://en.wikipedia.org/wiki/Vande_Bharat_Express",
+        "details":"Vande Bharat Express, also known as Train 18, is the fastest engine-less train of India. The train is set to be flagged off on February 15, 2019, from New Delhi. Prime Minister Narendra Modi will be flagging off the train on the New Delhi- Varanasi route. Vande Bharat Express is the first ever engine-less train of India. Manufactured by the Integral Coach Factory, Chennai, this train is the first-of-its-kind to be manufactured in India. The train is equipped with GPS-based passenger information system, LED lighting, temperature control system, WiFi, and touch-free bio-vacuum toilets. Other salient features of the train include personalised reading lights, mobile charging points near every seat, and automatic doors. Also, Vande Bharat Express has European style seats and fully sealed gangways for easy movements. The Integral Coach Factory of the Railways claims that the train was designed and manufactured in a record time of 18 months.",
+        "routes":[
+            "New Delhi - Kanpur Central - Praygraj - Varanasi",
+            "New Delhi - Ambala Cantt - Ludhiana - Jammu Tawi - Shri Mata Vashinavo Devi Katra"
+        ],
+        "Cost":[
+            "New Delhi to Varanasi : Exceutive Chair Car - Rs. 3310 , AC Chair Car - Rs. 1760",
+            "New Delhi to Katra :  Exceutive Chair Car -  Rs. 3015,  AC Chair Car - Rs. 1630"
+        ],
+        "opertation":"Every Sunady, Monday, Wednsday, Thrusday, Friday, Saturday (NDLS-SMVDK), Every Sunday, Tuesday, Wednsday, Friday, Saturday (NDLS-BSB)"
+    }
 }
