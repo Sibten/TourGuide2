@@ -200,6 +200,7 @@ export default function Train() {
               />
             </div>
           </div>
+          
         </div>
 
         <div className="infoRow">
