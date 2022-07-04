@@ -1,5 +1,6 @@
 {
-  "name": "tourguide",  "homepage": "https://sibten.github.io/TourGuide2",
+  "name": "tourguide",
+  "homepage": "https://sibten.github.io/TourGuide2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
