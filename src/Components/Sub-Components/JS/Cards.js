@@ -4,13 +4,11 @@ import { Card } from "react-bootstrap";
 import {FaFire} from 'react-icons/fa'
 function Destination(name) {
   var img = require("../../../database/city.json");
-  
-  
-   
+
   return (
     <div className="destnCard">
       <Card className="Cardbody" style={{ width: "18rem",height:"100%",overflowY:"scroll" }}>
-        <Card.Img variant="top" src={img["popular"][name]["link"]} />
+        <Card.Img variant="top" src={img["popular"][name]["link"]} style={{minHeight:"200px",maxHeight:"200px"}}/>
         <Card.Body>
           <Card.Title>{img["popular"][name]["loc"]}</Card.Title>
           <Card.Text>{img["popular"][name]["details"]}</Card.Text>

@@ -1,10 +1,11 @@
 .destn{
     display: inline-flex;
-    max-width: 100%;
+        width: 100%;
     overflow-x: scroll;
     overflow-y: scroll;
     /* text-align: justify; */
     text-align: center;
+    /* background-color: blue; */
 }
 .destn::-webkit-scrollbar {
     background: none;
@@ -18,7 +19,7 @@
     color: white;
 }
 .destnCard{
-    margin: 1%;
+    margin: 5px;
 }
 
 .destnCard::-webkit-scrollbar{
