@@ -1,10 +1,12 @@
 import React from 'react'
 import '../CSS/Footer.css'
 import ILogo from '../Images/IncrIndia.png'
+import logo from "../Images/icon.svg"
 import {FaGoogle, FaFacebook, FaInstagram, FaTwitter} from "react-icons/fa";
 export default function () {
   return (
       <div className="footer">
+        <img src={logo} alt="tourguideicon" width="150px" height="150px"/>
           <h4> &copy; 2022 - Tour Guide : Your Toursim Partner   </h4>
           <div className="social">
                 <FaGoogle className='icon'/>
