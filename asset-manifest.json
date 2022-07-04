@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/TourGuide2/static/css/main.27828bff.css",
-    "main.js": "/TourGuide2/static/js/main.db9cee2b.js",
+    "main.js": "/TourGuide2/static/js/main.96ff7dd6.js",
     "static/js/787.c4792038.chunk.js": "/TourGuide2/static/js/787.c4792038.chunk.js",
     "static/media/heading.svg": "/TourGuide2/static/media/heading.9991aa39a1ca06606f87ef49d8cac9b3.svg",
     "static/media/icon.svg": "/TourGuide2/static/media/icon.534a352e2edac4aeeea52bbead013a12.svg",
     "static/media/IncrIndia.png": "/TourGuide2/static/media/IncrIndia.95ddbd11b6b842435817.png",
     "index.html": "/TourGuide2/index.html",
     "main.27828bff.css.map": "/TourGuide2/static/css/main.27828bff.css.map",
-    "main.db9cee2b.js.map": "/TourGuide2/static/js/main.db9cee2b.js.map",
+    "main.96ff7dd6.js.map": "/TourGuide2/static/js/main.96ff7dd6.js.map",
     "787.c4792038.chunk.js.map": "/TourGuide2/static/js/787.c4792038.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27828bff.css",
-    "static/js/main.db9cee2b.js"
+    "static/js/main.96ff7dd6.js"
   ]
 }
