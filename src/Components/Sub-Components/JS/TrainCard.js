@@ -17,7 +17,7 @@ export default function TrainCard(props) {
   
   return (
     <div>
-      <Card className="cardBody" style={{ width: '18rem',margin:"5px",height:"4 50px",textAlign:"left" }}>
+      <Card className="cardBody" style={{ width: '18rem',margin:"5px",height:"450px",textAlign:"left" }}>
       <Card.Img variant="top" src={data[tn]["img"]} style={{minHeight:"200px", position:"sticky",top:"0"}}/> 
       <Card.Body style={{padding:"0px"}}>
         <Card.Title className='cardTitle'> {data[tn]["tname"]}</Card.Title>

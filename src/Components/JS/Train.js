@@ -200,20 +200,6 @@ export default function Train() {
               />
             </div>
           </div>
-          <div className="trainSearch">
-          <div className="title">
-            {" "}
-            <h2> Railway Station Serach </h2>
-          </div>
-          <input
-            type="text"
-            name="station"
-            id="station"
-            placeholder="Station Name"
-          />{" "}
-          <br></br>
-          <Button style={{ margin: "4.5px" }}> Search </Button>
-        </div>
         </div>
 
         <div className="infoRow">
