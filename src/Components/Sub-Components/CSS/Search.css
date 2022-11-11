@@ -9,7 +9,7 @@
 }
 .cityHead{
     position: sticky;
-    top: 62px;
+    top: 99px;
     z-index: 1;
     display: inline-flex;
     border: 1px solid black;

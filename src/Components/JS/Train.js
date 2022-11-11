@@ -3,7 +3,6 @@ import "../CSS/Train.css";
 import { FaExchangeAlt } from "react-icons/fa";
 import { Button, Modal } from "react-bootstrap";
 import TrainCard from "../Sub-Components/JS/TrainCard";
-import { GiToadTeeth } from "react-icons/gi";
 import LuxryTrain from "../Sub-Components/JS/LuxryTrain";
 
 // import TrainPage from "./TrainPage";
@@ -24,11 +23,11 @@ export default function Train() {
   else{
     day = today.getDate().toString();
   }
-  if(today.getMonth()>=11){
-    month = (today.getMonth()+1).toString();
+  if(today.getMonth()< 10){
+    month = "0"+ (today.getMonth()+1).toString();
   }
   else{
-    month = "0"+ (today.getMonth()+1).toString();
+    month = (today.getMonth()+1).toString();
   }
   var date = day + month + today.getFullYear().toString();
   const axios = require("axios");
@@ -118,10 +117,10 @@ export default function Train() {
     <>
       <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
-          <Modal.Title>Modal heading</Modal.Title>
+          <Modal.Title>Confirmation </Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          Do you Redirect to ixigo trains ? <br /> {From} -- {To} , Date :{" "}
+          Do you want Redirect to ixigo trains ? <br /> {From} -- {To} , Date :{" "}
           {date}
         </Modal.Body>
         <Modal.Footer>
@@ -129,6 +128,7 @@ export default function Train() {
             Close
           </Button>
           <a
+          //https://www.ixigo.com/search/result/train/ADI/MSH/11112022//1/0/0/0/ALL
             href={`https://www.ixigo.com/search/result/train/${From}/${To}/${date}//1/0/0/0/ALL`}
             target="_blank"
             rel="noreferrer"
