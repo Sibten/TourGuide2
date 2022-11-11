@@ -117,7 +117,7 @@ export default function Train() {
     <>
       <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
-          <Modal.Title>Confirmation </Modal.Title>
+          <Modal.Title>Modal heading</Modal.Title>
         </Modal.Header>
         <Modal.Body>
           Do you want Redirect to ixigo trains ? <br /> {From} -- {To} , Date :{" "}
